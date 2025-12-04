@@ -1,0 +1,5 @@
+{
+  "name": "React Component Visualizer",
+  "description": "A live preview environment for React components. Paste your Recharts code, save, and instantly view the interactive diagram.",
+  "requestFramePermissions": []
+}
